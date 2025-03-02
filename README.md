@@ -10,4 +10,7 @@ The implementation processes 23,501 training images, filtering to 4,919 images w
 
 
 ## Results
+The YOLOv5 model effectively detects Crown-of-Thorns (COT) Starfish in underwater coral reef images, as shown in the sample output with red bounding boxes identifying starfish in 11 out of 20 images. These results demonstrate the model’s accuracy across varying conditions, leveraging the yolov5s architecture and training on 4,919 annotated images for marine conservation.
+
+![image](https://github.com/Merihandaniel/Utilizing-YOLOv5-to-identify-COT-Starfish/blob/a226ff1fd57a1c6c36117dc7f5311e279f03b68e/COT%20Results.png)
 
